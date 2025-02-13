@@ -95,7 +95,7 @@ $> source .venv/bin/activate
 # or on windows
 PS> .venv\Scripts\activate
 # now install stuff
-$> python -m pip install -r requirements.txt -r requirements-treesitter.txt
+$> python -m pip install -r requirements.txt
 # And the utils
 $> python -m pip install -e .
 ```
